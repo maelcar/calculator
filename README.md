@@ -7,8 +7,8 @@ I have created this scientific calculator using React for the Front-End and Node
 ## Autor
 **Manuel Elías Rey Álvarez (@maelcar)**
 
-* [Portfolio web]()
-* [Linkedin]()
+* [Portfolio web](www.maelcar.com)
+* [Linkedin](https://www.linkedin.com/in/maelcar)
 
 ## View App online
 [Calculator](https://calculator-mera.herokuapp.com)
